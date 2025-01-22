@@ -33,6 +33,12 @@
   text-align: center;
 }
 
+.photo img {
+  width: 200px;
+  height: auto; /* Ensures the aspect ratio is preserved */
+}
+
+
 @media only screen and (min-width: 620px){
   .paragraph {
     float: left;
