@@ -5,7 +5,7 @@
     <div class="paragraph">
       <div>
         I'm <strong>Bastian Matrix</strong>, a Game Developer.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I spend my days living alone with my daughter Mike, and cutting trees and carrying trunks around to keep in shape.
       </div>
 
       <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">games</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
