@@ -26,7 +26,7 @@ export default [
           <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
         </div>
     `, "#ff6600", true, false, 88),
-  new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+  new ProjectData("project-7", "Druu Blood", "img/projects/project-7-icon.png", `
     <div class="paragraph">
                 <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
                 <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
