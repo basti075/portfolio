@@ -36,6 +36,7 @@
 .photo img {
   width: 200px;
   height: auto; /* Ensures the aspect ratio is preserved */
+  transform: translateY(-80px); /* Moves the image up slightly */
 }
 
 

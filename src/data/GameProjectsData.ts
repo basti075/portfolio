@@ -28,7 +28,7 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Loop Screenshot" />
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Loop Screenshot" />
     </div>
-    `, "#23bd69", true),
+    `, "#666699", false, true),
     new ProjectData("project-2", "Shootjective", "img/projects/project-2-icon.png", `
     <div class="paragraph">
         <strong>Shootjective</strong> is a project we made during the Global Game Jam 2024.
