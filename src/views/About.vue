@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
+        I'm <strong>Bastian Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
         I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
       </div>
 
@@ -14,7 +14,7 @@
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/mountain.jpg" alt="Avatar of John" /> 
     </div>
 
     <div style="clear:both"></div>

@@ -1,10 +1,10 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Loop", "img/projects/project-1-icon.png",
+    new ProjectData("project-1", "Loop", "img/projects/loop1.png",
         `
     <div class="paragraph">
-     <strong>Loop</strong> is a Project we made during the Franken Game JAm 2024.
+     <strong>Loop</strong> is a Project we made during the Franken Game Jam 2024.
      <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
     </div>
     <div class="paragraph center">
@@ -29,9 +29,9 @@ export default [
         <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Loop Screenshot" />
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "Shootjective", "img/projects/project-2-icon.png", `
     <div class="paragraph">
-        <strong>Shootjective Blog</strong> is a project we made during the Global Game Jam 2024.
+        <strong>Shootjective</strong> is a project we made during the Global Game Jam 2024.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
     </div>
     <div class="paragraph center">
