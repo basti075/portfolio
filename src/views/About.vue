@@ -4,7 +4,7 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>Bastian Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
+        I'm <strong>Bastian Matrix</strong>, a Game Developer.<br/>
         I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
       </div>
 
